@@ -3,17 +3,12 @@
 You can use the [editor on GitHub](https://github.com/traliotube/traliotube.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## HTML Guide 
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://bob.github.io/repo/</title>
-<meta http-equiv="refresh" content="0; URL=https://bob.github.io/repo/">
-<link rel="canonical" href="https://bob.github.io/repo/">
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
+
+Code for mark down start `"```markdown"` and end `"```"`
 
 ```markdown
 Syntax highlighted code block

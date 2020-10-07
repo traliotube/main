@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/traliotube/traliotube.gith
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
 
-Code for mark down start ````markdown` and end `````
+Code for mark down start `"```markdown"` and end `"```"`
 
 ```markdown
 Syntax highlighted code block

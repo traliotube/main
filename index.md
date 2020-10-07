@@ -1,8 +1,9 @@
 # My guides for html or github.md files
 
 ## List 
-1. [Learn HTML](https://traliotube.github.io/main)
-2. [Learn github.md](https://traliotube.github.io/main)
+1. [Learn HTML](https://github.com/traliotube/main/blob/master/index.md#html-guide)
+2. [Learn github.md](https://github.com/traliotube/main/blob/master/index.md#learn-githubmd-files-code)
+3. [Learn github _config.yml](https://github.com/traliotube/main/blob/master/index.md#learn-github-_configyml)
 
 ## Learn github.md files code
 1. Code for mark down: start `"```markdown"` and end `"```"`

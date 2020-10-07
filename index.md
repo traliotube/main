@@ -8,6 +8,7 @@
 ## Learn github.md files code
 1. Code for mark down: start (```markdown) and (end ```)
 2. Text Formatting
+
 ```markdown
    # Heading 1
    ## Heading 2
@@ -19,6 +20,7 @@
    **Bold** and _Italic_ and `Code` text
    [Link](url) and ![Image](src)
 ```
+
    Effect Of above code
    
    # Heading 1

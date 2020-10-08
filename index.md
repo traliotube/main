@@ -14,7 +14,7 @@
    ## Heading 2
    ### Heading 3
    - Bulleted
-   - List
+   - List   
    1. Numbered
    2. List
    **Bold** and _Italic_ and `Code` text
@@ -23,17 +23,19 @@
 
    Effect Of above code
    
-   # Heading 1
-   ## Heading 2
-   ### Heading 3
-   - Bulleted
-   - List
-   1. Numbered
-   2. List
-   **Bold** and _Italic_ and `Code` text
-   [Link](url) and ![Image](src)
+# Heading 1
+## Heading 2
+### Heading 3
+- Bulleted
+- List
+
+1. Numbered
+2. List
+**Bold** and _Italic_ and `Code` text
+[Link](url) and ![Image](src)
    
 ## Learn github _config.yml
+
     1. Tittle of a site: `title: My Website`
     2. Favicon: site_favicon: `favicon.ico`
 
